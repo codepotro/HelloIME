@@ -16,6 +16,9 @@ Click on Build project.
 ## How to make a complete IME for any language?
 
 Create a layout file using markup language like: XML or Json.
+
 Parse that file.
+
 Load it to a dictionary.
+
 Iterate and use the dictionary in IsHooked method.
